@@ -1,0 +1,28 @@
+* {margin: 0px; padding: 0px;}
+body {
+	width: 900px;
+	margin: auto;
+}
+header{
+	width: 900px;
+	height: 100px;
+}
+header img {
+	margin: 0px;
+	width: 900px;
+	height: 250px;
+}
+.header h1 {
+	text-align: center;
+	color: #000000;
+	margin-top: 170px;
+}
+.header h2{
+	text-align: center;
+	color: #000000;
+}
+.header h3{
+	text-align: left;
+	color: #708090;
+	margin-top: 20px
+}
