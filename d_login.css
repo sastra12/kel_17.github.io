@@ -99,6 +99,7 @@ ul li a:hover{
 	border-radius: 10px;
 	float: left;
 	margin: 50px 9% 45px 0px;
+	cursor: pointer;
 }
 
 .try_out{
